@@ -1,5 +1,5 @@
 
-__version__ = 'v1.1'
+__version__ = '0.1.0'
 __author__ = 'Jie Jenn'
 
 from .google_apis import create_service
