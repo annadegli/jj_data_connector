@@ -1,5 +1,6 @@
 import os
 import sys
+from setuptools import setup, find_packages
 from pathlib import Path
 
 try:
@@ -16,5 +17,5 @@ setup(
     python_requires='>=3.6',
     install_requires=['google-api-python-client>=2.51.0', 'google-auth-httplib2>=0.1.0', 'google-auth-oauthlib>=0.5.2', 'requests>=2.28.0'],
     packages=['jj_data_connector'],
-    license='MIT'
+    license='MIT',
 )   
