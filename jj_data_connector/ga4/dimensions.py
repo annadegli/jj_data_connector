@@ -163,5 +163,10 @@ Dimensions = {
 	'Week': 'week',
 	'Weekly cohort': 'cohortNthWeek',
 	'Year': 'year'
+	'veasierDominioID': 'veasier_dominio_id'
+	'veasierPlayerID': 'veasier_player_id'
+	'veasierVideoID': 'veasier_video_id'
+	'veasierUserID': 'veasier_user_id'
+	'videoPercent': 'Video Percent'
 }
 
